@@ -1,4 +1,0 @@
-HiddenContagion
-===============
-
-HiddenContagion
